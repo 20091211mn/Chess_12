@@ -1,0 +1,6 @@
+{
+  "appId": "com.chess.game.app",
+  "appName": "Chess Game",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
